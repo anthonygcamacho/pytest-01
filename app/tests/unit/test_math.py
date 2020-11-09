@@ -1,7 +1,6 @@
-
-# import src.math
-from src.math import add
 import pytest
+
+from src.math import add
 
 
 def test_add():
