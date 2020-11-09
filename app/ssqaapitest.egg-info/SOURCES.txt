@@ -1,0 +1,10 @@
+setup.py
+src/__init__.py
+src/math.py
+ssqaapitest.egg-info/PKG-INFO
+ssqaapitest.egg-info/SOURCES.txt
+ssqaapitest.egg-info/dependency_links.txt
+ssqaapitest.egg-info/not-zip-safe
+ssqaapitest.egg-info/requires.txt
+ssqaapitest.egg-info/top_level.txt
+tests/__init__.py
