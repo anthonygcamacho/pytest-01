@@ -1,5 +1,4 @@
 import pytest
-
 from src.math import add
 
 
